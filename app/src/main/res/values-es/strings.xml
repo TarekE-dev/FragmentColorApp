@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentColorApp</string>
+    <string-array name="colors">
+        <item>Por favor seleccione un color</item>
+        <item>ROJO,RED</item>
+        <item>AMARILLO,YELLOW</item>
+        <item>VERDE,GREEN</item>
+        <item>AGUA,AQUA</item>
+        <item>BLANCO,WHITE</item>
+        <item>GRIS,GRAY</item>
+        <item>CYAN,CYAN</item>
+        <item>MAGENTA,MAGENTA</item>
+        <item>GRISCLARO,LIGHTGRAY</item>
+        <item>GRISOSCURO,DARKGRAY</item>
+    </string-array>
+</resources>
